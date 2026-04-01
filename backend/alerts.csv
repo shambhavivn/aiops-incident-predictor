@@ -1,0 +1,16 @@
+cpu,memory,disk,alert_type,severity
+95,90,85,cpu_spike,critical
+88,85,70,cpu_spike,major
+60,55,50,cpu_spike,minor
+40,92,80,memory_leak,critical
+35,85,60,memory_leak,major
+30,60,50,memory_leak,minor
+50,45,95,disk_full,critical
+45,40,88,disk_full,major
+35,30,60,disk_full,minor
+20,25,20,service_down,critical
+25,30,25,service_down,major
+30,35,30,service_down,minor
+85,88,90,network_latency,critical
+70,75,65,network_latency,major
+50,45,40,network_latency,minor
