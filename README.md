@@ -27,3 +27,14 @@ A full-stack AIOps project built with React, FastAPI, and Machine Learning to pr
 cd backend
 venv\Scripts\python.exe train_model.py
 venv\Scripts\python.exe -m uvicorn main:app --reload
+
+## Screenshots
+
+### Dashboard
+![Dashboard](frontend/src/assets/dashboard.png)
+
+### Prediction Result
+![Prediction Result](frontend/src/assets/prediction.png)
+
+### alerthistory
+![alerthistory](frontend/src/assets/alerthistory.png)
